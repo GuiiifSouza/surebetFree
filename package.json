@@ -1,0 +1,23 @@
+{
+  "name": "surebetfree",
+  "version": "1.0.0",
+  "description": "SureBet Web Scraping API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "surebet",
+    "web scraping",
+    "api",
+    "express",
+    "playwright"
+  ],
+  "author": "Guilherme Faria De Souza",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22",
+    "playwright": "^1.32.3"
+  }
+}
